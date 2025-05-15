@@ -1,0 +1,14 @@
+This is the variable description for the BRIES dataset.
+
+Variable Description (11)
+[1] <Meta> Attack_ID: A unique ID for the generated attack.
+[2] <Meta> News_ID: A unique ID for the agency news.
+[3] <Meta> Model: The LLM model used for attack generation.
+[4] <Meta> Agency: The agency of the news used for attack generation.
+[5] <Meta> Title: The title of the agency news.
+[6] <Meta> News: The content of the agency news.
+[7] <Meta> Domain: The domains related to the agency news.
+[8] <Meta> Topic: The topics covered in the agency news.
+[9] <Meta> Attack: One of the 23 persuasive techniques from SemEval 2023 Task 3 used for attack generation.
+[10] <Meta> Medium: The medium format used for attack generation.
+[11] <Content> Generated_Attack: LLM-generated persuasive attacks directed at the given agency news.
