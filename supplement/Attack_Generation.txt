@@ -1,0 +1,10 @@
+This is an overview of attack generation.
+
+Overview
+[1] 10 Agencies, 972 Agency News – AFRL (100), ARL (100), DARPA (100), DIU (100), DOD (100), DTRA (100), IARPA (72), NGA (100), NRL (100), and SNL (100)
+[2] 3 LLM Models – GPT-4 0613, Gemma 2 9B Instruct, and Llama 3.1 8B Instruct
+[3] 23 Attacks (SemEval 2023 Task 3) – Appeal to Authority, Appeal to Popularity, Appeal to Values, Appeal to Fear, Flag Waving, Causal Oversimplification, False Dilemma, Consequential Oversimplification, Straw Man, Red Herring, Whataboutism, Slogans, Appeal to Time, Conversation Killer, Loaded Language, Repetition, Exaggeration, Obfuscation, Name Calling, Doubt, Guilt by Association, Appeal to Hypocrisy, and Questioning the Reputation
+[4] 2 Attack Mediums – Press Release and Social Media Post
+[5] 1 Attack Perspective – Harmful
+
+Total – 134,136 LLM-generated persuasive attacks
