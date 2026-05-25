@@ -1,11 +1,11 @@
 # Title
-Building Resilient Communication: An LLM-Generated Dataset of Persuasion Attacks
+Cyber Social Threats to Federal Research Communication: Moral Framing in LLM-Generated Persuasion Attacks
 
 # Authors
-Anonymized for Paper Submission 
+Hsien-Te Kao, Aleksey Panasyuk*, Peter Bautista, William Dupree, Gabriel Ganberg, Jeffrey M. Beaubien, Laura Cassani and Svitlana Volkova
 
 # Paper
-Under Review for ACL Rolling Review - October 2025
+ICWSM CySoc 2026 ([https://doi.org/10.36190/2026.03](https://workshop-proceedings.icwsm.org/abstract.php?id=2026_03))
 
 ---
 
